@@ -17,15 +17,11 @@
 
 ## 🏆 GitHub Stats
 
-<div align="center">
-  
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaulRobins&show_icons=true&theme=radical)
-  
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RaulRobins&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaulRobins&show_icons=true&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RaulRobins&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulRobins&layout=compact&theme=radical)
-
-</div>
 
 ## 🔗 Connect with Me
 
