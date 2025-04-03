@@ -2,8 +2,8 @@
 
 [![GitHub Follow](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/RaulRobins)
 
-🔭 **Currently working on**: Some SCADA using python snap7, and  
-🌱 **Learning**: Python
+🔭 **Currently working on**: Some SCADA using python snap7.
+🌱 **Learning**: Python.
 💬 **Ask me about**: Industrial automation, Siemens, Rockwell, Fanuc, ABB, KUKA.
 ⚡ **Fun fact**: I like to code for fun.
 
