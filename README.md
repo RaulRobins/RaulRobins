@@ -20,8 +20,10 @@
 <div align="center">
   
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaulRobins&show_icons=true&theme=radical)
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RaulRobins&theme=radical)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulRobins&layout=compact&theme=radical)
+  
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RaulRobins&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulRobins&layout=compact&theme=radical)
 
 </div>
 
@@ -32,8 +34,9 @@
 
 ## 📌 Pinned Repositories
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=RaulRobins&repo=project1&theme=dark)](https://github.com/RaulRobins/Profinet-for-Arduino.git)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=dark)](https://github.com/RaulRobins/free-programming-books)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=RaulRobins&repo=Profinet-for-Arduino&theme=dark)](https://github.com/RaulRobins/Profinet-for-Arduino)
+
+[![Free Programming Books](https://github-readme-stats.vercel.app/api/pin/?username=RaulRobins&repo=free-programming-books&theme=dark)](https://github.com/RaulRobins/free-programming-books)
 
 ---
 
